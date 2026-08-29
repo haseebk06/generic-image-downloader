@@ -1,3 +1,3 @@
 # Generic Image Downloader
 
-The name define the repo itself.
+The name defines the repo itself.
